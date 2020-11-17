@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 我现在是一名在上海打拼的码农  
+- 我现在是一名在上海<del>打拼</del>混日子的码畜  
 - 欢迎各位留言互star项目 ✨
 - 有任何问题可以邮件 `autuan.yu@gmail.com` 沟通哟 ~
 - 我的个人博客 [autuan.top](http://autuan.top) 也同样欢迎大家访问!
+
 
 希望能够帮助到大家~~~ ❤
